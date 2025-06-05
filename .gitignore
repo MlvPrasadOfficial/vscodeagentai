@@ -1,0 +1,5 @@
+**/.env
+**/npm_installs.txt
+**/__pycache__/
+python_code/firebase_service_account.json
+python_code/june5_firebasekeys_finaljson.json
